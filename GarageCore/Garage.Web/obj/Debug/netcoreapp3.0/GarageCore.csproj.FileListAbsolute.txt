@@ -1,0 +1,9 @@
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.csprojAssemblyReference.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\staticwebassets\GarageCore.StaticWebAssets.Manifest.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\staticwebassets\GarageCore.StaticWebAssets.xml
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.RazorAssemblyInfo.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.RazorAssemblyInfo.cs
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.AssemblyInfoInputs.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.AssemblyInfo.cs
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.TagHelpers.input.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\GarageCore\obj\Debug\netcoreapp3.0\GarageCore.TagHelpers.output.cache
