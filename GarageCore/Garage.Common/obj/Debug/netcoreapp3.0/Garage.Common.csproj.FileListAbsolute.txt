@@ -14,3 +14,6 @@ C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\obj\Debug\netcor
 C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\obj\Debug\netcoreapp3.0\Garage.Common.AssemblyInfo.cs
 C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\obj\Debug\netcoreapp3.0\Garage.Common.dll
 C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\obj\Debug\netcoreapp3.0\Garage.Common.pdb
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\bin\Debug\netcoreapp3.0\Garage.Data.dll
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\bin\Debug\netcoreapp3.0\Garage.Data.pdb
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Common\obj\Debug\netcoreapp3.0\Garage.Common.csproj.CopyComplete
