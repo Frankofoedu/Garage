@@ -82,26 +82,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\superuser\\.nuget\\packages\\": {}
+    "C:\\Users\\Frank\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\superuser\\source\\repos\\Garage\\GarageCore\\Garage.Web\\Garage.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Frank\\Source\\Repos\\Garage\\GarageCore\\Garage.Web\\Garage.Web.csproj",
       "projectName": "Garage.Web",
-      "projectPath": "C:\\Users\\superuser\\source\\repos\\Garage\\GarageCore\\Garage.Web\\Garage.Web.csproj",
-      "packagesPath": "C:\\Users\\superuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\superuser\\source\\repos\\Garage\\GarageCore\\Garage.Web\\obj\\",
+      "projectPath": "C:\\Users\\Frank\\Source\\Repos\\Garage\\GarageCore\\Garage.Web\\Garage.Web.csproj",
+      "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Frank\\Source\\Repos\\Garage\\GarageCore\\Garage.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\superuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Frank\\Documents\\Visual Studio 2019\\LocalNugetRepository": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
