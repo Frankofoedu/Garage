@@ -1,0 +1,8 @@
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\bin\Debug\netcoreapp3.0\Garage.Data.deps.json
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\bin\Debug\netcoreapp3.0\Garage.Data.dll
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\obj\Debug\netcoreapp3.0\Garage.Data.csprojAssemblyReference.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\obj\Debug\netcoreapp3.0\Garage.Data.AssemblyInfoInputs.cache
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\obj\Debug\netcoreapp3.0\Garage.Data.AssemblyInfo.cs
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\bin\Debug\netcoreapp3.0\Garage.Data.pdb
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\obj\Debug\netcoreapp3.0\Garage.Data.dll
+C:\Users\superuser\source\repos\Garage\GarageCore\Garage.Data\obj\Debug\netcoreapp3.0\Garage.Data.pdb

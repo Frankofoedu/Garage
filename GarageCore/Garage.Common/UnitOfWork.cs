@@ -3,18 +3,24 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 using Garage.Common.Interfaces;
+using Garage.Common.Repositories;
+using Garage.Data.Contexts;
+using Garage.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Garage.Common
 {
-    public sealed class UnitOfWork<TContext>: IUnitOfWork where TContext : DbContext
+    public class UnitOfWork: IUnitOfWork 
     {
-        private readonly TContext _context;
-
-        public UnitOfWork(TContext context)
+        private readonly ApplicationContext _context;
+        private IRepository<Product> _productRepo;
+        public UnitOfWork(ApplicationContext context)
         {
             _context = context;
         }
+
+        public virtual IRepository<Product> ProductRepository => _productRepo ??= new Repository<Product, ApplicationContext>(_context);
+        
         public async void Dispose()
         {
            await _context.DisposeAsync();
