@@ -18,7 +18,6 @@ namespace Garage.Web.Pages.Products
         public IndexModel(IUnitOfWork unitOfWork)
         {
             unitOfWork = _unitOfWork;
-            _productRepository = unitOfWork.;
         }
         [BindProperty]
         public List<Product> Products { get; set; }

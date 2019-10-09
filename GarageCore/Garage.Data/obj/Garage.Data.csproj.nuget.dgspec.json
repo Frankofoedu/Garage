@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\superuser\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\superuser\\source\\repos\\Garage\\GarageCore\\Garage.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\superuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
