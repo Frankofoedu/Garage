@@ -13,7 +13,6 @@ namespace Garage.Web.Pages.Products
 {
     public class IndexModel : PageModel
     {
-        private readonly IRepository<Data.Entities.Product> _productRepository;
         private readonly UnitOfWork _unitOfWork;
         public IndexModel(IUnitOfWork unitOfWork)
         {
@@ -23,7 +22,7 @@ namespace Garage.Web.Pages.Products
         public List<Product> Products { get; set; }
         public async Task OnGet()
         {
-            var prodResult = await _productRepository.GetAll();
+            var prodResult = await _unitOfWork.ProductRepository.GetAll();
 
             Products = prodResult.ToList();
         }
